@@ -1,12 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr  3 13:19:49 2022
-
-@author: mat
-"""
-
-
 import time
 import random
 from multiprocessing import Lock, Condition, Process
